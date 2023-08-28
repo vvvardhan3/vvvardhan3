@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vvvardhan3?tab=repositories](https://github.com/vvvardhan3?tab=repositories)
 
-- 📫 How to reach me **vankayalapativ4@gmail.com**
+- 📫 How to reach me **vardhanv1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
