@@ -6,12 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvvardhan3" alt="vvvardhan3" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vankayalapativ4" target="blank"><img src="https://img.shields.io/twitter/follow/vankayalapativ4?logo=twitter&style=for-the-badge" alt="vankayalapativ4" /></a> </p>
-
-- 🔭 I’m currently working on [Time Series Forecasting using RNN](https://github.com/vvvardhan3/Directed-Studies)
-
 - 👨‍💻 All of my projects are available at [https://github.com/vvvardhan3?tab=repositories](https://github.com/vvvardhan3?tab=repositories)
 
-- 📫 How to reach me **vardhanv1999@gmail.com**
+- 📫 How to reach me **vankayalapativjobs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
